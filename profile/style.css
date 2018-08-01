@@ -100,6 +100,10 @@ td {
   opacity: 0.7;
 }
 
+.btn-youtube:hover {
+  opacity: 0.8;
+}
+
 .card-white {
   background: white;
   padding: 30px;
